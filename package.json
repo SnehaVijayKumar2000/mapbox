@@ -1,0 +1,18 @@
+{
+  "name": "climate-risk",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@mapbox/mapbox-gl-geocoder": "^5.0.1",
+    "next": "^13.3.1",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "xlsx": "^0.18.5"
+  }
+}
